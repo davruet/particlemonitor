@@ -63,12 +63,15 @@ You can follow the instructions at the link below. This guide explains how to up
 
 https://www.arduino.cc/en/Guide/Arduino101
 
-### Resources
+### Chicagoland Resources
 
 Harold Washington Library Maker Lab:
 
 http://www.chipublib.org/maker-lab/
 
+Pumping Station One:
+
+https://pumpingstationone.org/
 
 
 
